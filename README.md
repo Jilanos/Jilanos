@@ -2,7 +2,7 @@
 
 Head of Electronics in e-mobility. I run the electrical side of an electric vehicle: wiring harness, CAN network, battery and power-electronics suppliers, homologation.
 
-Ph.D. in signal processing (CEA, Université Paris-Saclay): focused ultrasound, real-time FPGA control, in vitro and in vivo experiments.
+Ph.D. in imaging and medical physics, signal processing focus (CEA, Université Paris-Saclay): focused ultrasound, real-time FPGA control, in vitro and in vivo experiments.
 
 I turn field problems into working tools, fast. I use AI-assisted development held to real standards: tests, CI, tagged releases, and apps that actually run in production on [paulmondou.fr](https://paulmondou.fr).
 
@@ -60,7 +60,6 @@ All of them are self-hosted on one VPS behind Caddy.
 - [orchestia](https://github.com/Jilanos/orchestia): human-supervised workflow for AI-assisted development, with Git and Logics keeping the evidence.
 - [Orchestrato](https://github.com/Jilanos/Orchestrato): local CLI supervisor for coding agents: deterministic routing, approvals, SQLite state.
 - [codex-task-planner](https://github.com/Jilanos/codex-task-planner), [codex-task-harness](https://github.com/Jilanos/codex-task-harness), [codex-task-supervisor](https://github.com/Jilanos/codex-task-supervisor): plan, run and benchmark atomic coding tasks for Codex.
-- [cr-0w](https://github.com/Jilanos/cr-0w): chief-of-staff hub for Claude Code: briefs, run tracking, review learning.
 
 ## How I build
 
