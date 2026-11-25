@@ -35,9 +35,8 @@ All of them are self-hosted on one VPS behind Caddy.
 - [CanTraceDiag](https://github.com/Jilanos/CanTraceDiag): local CAN trace workstation, DBC decoding, synchronized plots and A/B cursors.
 - [PeakLive](https://github.com/Jilanos/peaklive): Windows CAN workstation on PEAK PCAN: live acquisition, DBC decoding, plots, recording and export.
 - [electrical-plan-editor](https://github.com/AlexAgo83/electrical-plan-editor): contributor to an open-source editor for electrical plans and wiring networks.
-- [tapis_roulant](https://github.com/Jilanos/tapis_roulant): read-only BLE monitor for FTMS treadmills: Python CLI, Web Bluetooth page and Android app.
 
-### Learning & content apps
+### Apps
 
 - [Kapsule](https://github.com/Jilanos/Kapsule): PWA of knowledge-card decks with quizzes and spaced repetition, JSON import, multi-device.
 - [Gnosis](https://github.com/Jilanos/Gnosis): generates Kapsule card and quiz decks from a list of technical topics.
@@ -45,27 +44,12 @@ All of them are self-hosted on one VPS behind Caddy.
 - [Canto](https://github.com/Jilanos/Canto): local-first PWA to practice singing in tune.
 - [pays-du-jour](https://github.com/Jilanos/pays-du-jour): daily country reader in French, charts and maps rendered on the server.
 - [StopScroll](https://github.com/Jilanos/StopScroll): Android app that limits time spent in apps, no account and no internet access.
-
-### Data & analysis
-
-- [cashflow-lab](https://github.com/Jilanos/cashflow-lab): import bank CSV exports, review monthly spending, forecast 3 to 12 months of cash flow.
-- [world_cup_predictor](https://github.com/Jilanos/world_cup_predictor): World Cup match outcomes (1X2) with a calibrated ML model.
-- [scrappy](https://github.com/Jilanos/scrappy): job-offer triage with explainable scoring, XLSX review and skill-gap analysis.
-- [Pinguino](https://github.com/Jilanos/Pinguino): local research workbench for FX strategies, read-only MT5 import, auditable exports.
 - [SommeilEnOr](https://github.com/Jilanos/SommeilEnOr): mobile sleep-context journal with full JSON/CSV export.
-- [Ogame_conseiller](https://github.com/Jilanos/Ogame_conseiller) and [gwendalavir-map](https://github.com/Jilanos/gwendalavir-map): a game-economy optimizer and a reproducible map-colorization pipeline.
-
-### AI dev tooling
-
-- [orchestia](https://github.com/Jilanos/orchestia): human-supervised workflow for AI-assisted development, with Git and Logics keeping the evidence.
-- [Orchestrato](https://github.com/Jilanos/Orchestrato): local CLI supervisor for coding agents: deterministic routing, approvals, SQLite state.
-- [codex-task-planner](https://github.com/Jilanos/codex-task-planner), [codex-task-harness](https://github.com/Jilanos/codex-task-harness), [codex-task-supervisor](https://github.com/Jilanos/codex-task-supervisor): plan, run and benchmark atomic coding tasks for Codex.
 
 ## How I build
 
 - Local-first by default: private data stays on the device or on my own server.
 - Tests, CI and tagged releases before anything goes live.
-- Automation under human supervision, with an audit trail.
 
 ## Contact
 
