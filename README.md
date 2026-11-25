@@ -32,7 +32,7 @@ All of them are self-hosted on one VPS behind Caddy.
 
 ### CAN & embedded tooling
 
-- [CanTraceDiag](https://github.com/Jilanos/CanTraceDiag) [![CI](https://github.com/Jilanos/CanTraceDiag/actions/workflows/ci.yml/badge.svg)](https://github.com/Jilanos/CanTraceDiag/actions/workflows/ci.yml): local CAN trace workstation, DBC decoding, synchronized plots and A/B cursors.
+- [CanTraceDiag](https://github.com/Jilanos/CanTraceDiag): local CAN trace workstation, DBC decoding, synchronized plots and A/B cursors.
 - [PeakLive](https://github.com/Jilanos/peaklive): Windows CAN workstation on PEAK PCAN: live acquisition, DBC decoding, plots, recording and export.
 - [electrical-plan-editor](https://github.com/AlexAgo83/electrical-plan-editor): contributor to an open-source editor for electrical plans and wiring networks.
 - [tapis_roulant](https://github.com/Jilanos/tapis_roulant): read-only BLE monitor for FTMS treadmills: Python CLI, Web Bluetooth page and Android app.
